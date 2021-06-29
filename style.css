@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  /* border: 1px solid gold; */
+  justify-content: center;
+  display: flex;
+}
+
+.logo img {
+  width: 200px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.gallery {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery img {
+  margin: 2px;
+  max-width: 400px;
+  max-height: 400px;
+  flex: 1;
+  border-radius: 4px;
+}
+
+footer {
+  height: 100px;
+  background: #343a40;
+  color: #fff;
+  text-align: center;
+  line-height: 1.5;
+}
