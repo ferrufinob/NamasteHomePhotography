@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 .logo {
   /* border: 1px solid gold; */
   justify-content: center;
@@ -35,7 +40,8 @@ h1 {
 }
 
 footer {
-  height: 100px;
+  margin-top: 10px;
+  height: 80px;
   background: #343a40;
   color: #fff;
   text-align: center;
