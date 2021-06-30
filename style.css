@@ -39,6 +39,44 @@ h1 {
   border-radius: 4px;
 }
 
+.contact-section {
+  background: #343a40;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.card {
+  background: white;
+  margin: 10px 20px;
+  border-radius: 8px;
+  border-bottom: #39a6a3 3px solid;
+  height: 200px;
+  width: 300px;
+}
+
+.card-content {
+  margin-top: 50px;
+}
+
+.card-content a {
+  color: #39a6a3;
+}
+
+.fa {
+  color: #39a6a3;
+}
+hr {
+  width: 25%;
+  margin: 10px auto;
+  border: 2px #39a6a3 solid;
+}
+
 footer {
   margin-top: 5px;
   height: 100px;
