@@ -39,7 +39,7 @@ header {
 .button {
   display: inline-block;
   padding: 1em 2em;
-  margin: 0 0.3em 0.1em 0;
+  margin: 1em 0.3em 0.1em 0;
   border: 0.16em solid rgba(255, 255, 255, 0);
   border-radius: 2em;
   text-decoration: none;
@@ -71,8 +71,8 @@ h1 {
 
 .gallery img {
   margin: 0.2em;
-  max-width: 400px;
-  max-height: 400px;
+  width: 500px;
+  height: 380px;
   flex: 1;
   border-radius: 4px;
 }
