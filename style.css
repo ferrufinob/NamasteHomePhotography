@@ -121,4 +121,8 @@ hr {
     display: block;
     margin: 0.2em auto;
   }
+
+  .logo {
+    margin-top: 5em;
+  }
 }
