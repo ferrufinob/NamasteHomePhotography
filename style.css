@@ -125,4 +125,9 @@ hr {
   .logo {
     margin-top: 5em;
   }
+
+  .gallery img {
+    width: 300px;
+    height: 200px;
+  }
 }
