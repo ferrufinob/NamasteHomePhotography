@@ -18,7 +18,7 @@ header {
   /* border: 1px solid gold; */
   justify-content: center;
   display: flex;
-  margin-top: 20em;
+  margin-top: 15em;
 }
 
 .logo img {
@@ -46,7 +46,7 @@ header {
   font-weight: 500;
   color: #39a6a3;
   background: #ddd;
-  text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, 0.35);
+  /* text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, 0.35); */
   text-align: center;
   transition: all 0.2s;
   cursor: pointer;
@@ -59,6 +59,7 @@ header {
 h1 {
   text-align: center;
   margin-top: 2em;
+  letter-spacing: 0.1em;
 }
 
 .gallery {
