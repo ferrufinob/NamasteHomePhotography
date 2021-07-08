@@ -44,8 +44,8 @@ h1 {
 
 .gallery img {
   margin: 0.2em;
-  width: 500px;
-  height: 380px;
+  width: 400px;
+  height: 280px;
   flex: 1;
   border-radius: 4px;
 }
