@@ -9,20 +9,20 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-header {
-  height: 80vh;
-  /* border: red 1px solid; */
-}
+/* header { */
+/* height: 80vh; */
+/* border: red 1px solid; */
+/* } */
 
 .logo {
   /* border: 1px solid gold; */
   justify-content: center;
   display: flex;
-  margin-top: 15em;
+  margin-top: 2em;
 }
 
 .logo img {
-  width: 300px;
+  width: 200px;
 }
 
 .main-content {
