@@ -96,7 +96,11 @@ hr {
   }
 
   .logo {
-    margin-top: 10em;
+    margin-top: 5em;
+  }
+
+  .logo img {
+    width: 150pxg;
   }
 
   .gallery img {
